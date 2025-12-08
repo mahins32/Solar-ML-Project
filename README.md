@@ -21,6 +21,7 @@ The goal is to help optimize solar panel efficiency and forecast power generatio
 
 ## Project Structure
 Solar-ML-Project
+
 │── data               → Raw or cleaned datasets  
 │── notebooks          → Jupyter/XLS models  
 │── models             → Saved ML models  
