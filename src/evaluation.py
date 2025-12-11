@@ -3,7 +3,7 @@ from sklearn.metrics import mean_absolute_error, r2_score
 from data_preprocessing import load_dataset, preprocess_data
 
 def evaluate():
-    df = load_dataset("notebook/solar_generation_dataset.csv")
+    df = load_dataset("data/solardataset.csv")
     (X_train, X_test, y_train, y_test), scaler = preprocess_data(df)
 
     # Load trained model
