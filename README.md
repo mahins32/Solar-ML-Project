@@ -94,6 +94,4 @@ For major changes, please open an issue first.
 
 # Author
 Saiful Islam Mahin
-Solar ML Research Enthusiast
-Saiful Islam Mahin
-Solar ML Research Enthusiast
+
